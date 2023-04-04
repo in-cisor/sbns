@@ -1,0 +1,25 @@
+
+@font-face {
+font-family: 'Fira Sans Book', sans-serif; 
+font-family: 'Fira Sans', sans-serif; 
+font-family: 'Fira Sans Eight', sans-serif; 
+font-family: 'Fira Sans Four', sans-serif; 
+font-family: 'Fira Sans Hair', sans-serif; 
+font-family: 'Fira Sans Thin', sans-serif; 
+font-family: 'Fira Sans Two', sans-serif; 
+font-family: 'Fira Sans UltraLight', sans-serif; 
+font-family: 'Fira Sans ExtraLight', sans-serif; 
+font-family: 'Fira Sans Light', sans-serif; 
+font-family: 'Fira Sans Medium', sans-serif; 
+font-family: 'Fira Sans SemiBold', sans-serif; 
+font-family: 'Fira Sans ExtraBold', sans-serif; 
+font-family: 'Fira Sans Heavy', sans-serif; 
+font-family: 'Fira Sans Ultra', sans-serif;
+src: url('https://fonts.cdnfonts.com/css/fira-sans-book') format('woff');
+}
+
+@font-face {
+font-family: 'Gotten', sans-serif;
+src: url(''https://fonts.cdnfonts.com/css/gotten') format('woff');
+font-style: normal;
+}
